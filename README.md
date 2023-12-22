@@ -1,8 +1,16 @@
-# React + Vite
+### File-System App
+This is a sample app which allows us create and view structure like OS file system.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Installation and Setup
+- Clone the repository.
+- Install the required dependencies: npm install
+- start the app: npm start
+- The app should open in your default browser at http://localhost:5173/.
 
-Currently, two official plugins are available:
+### Dependencies
+- ReactJS
+- Redux Toolkit
+- Redux
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Site URL
+https://file-system-app.netlify.app/
