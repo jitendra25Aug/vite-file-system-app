@@ -69,6 +69,10 @@ input{
   height: 20px;
 }
 
+.pointer{
+  cursor: pointer;
+}
+
 @media (min-width:992px){
   .section-center{
     width: 575px;

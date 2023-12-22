@@ -62,7 +62,7 @@ const Folder = ({ name, id, toggleNestedFolders, openNestedFolder }) => {
     return (
         <>
             <div className="flex folder-container">
-                <div className="flex" onClick={() => { toggleNestedFolders(name) }}>
+                <div className="flex pointer" onClick={() => { toggleNestedFolders(name) }}>
                     <span role="image" aria-label="folder">📂</span>
                     {
                         isEdit ? <Input inputValue={inputValue} handleChange={handleChange} handleBlur={handleBlur} /> : <span>{name}</span>
