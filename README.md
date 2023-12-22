@@ -13,4 +13,4 @@ This is a sample app which allows us create and view structure like OS file syst
 - Redux
 
 ### Site URL
-https://file-system-app.netlify.app/
+https://file-system-structure-app.netlify.app/
